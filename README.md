@@ -32,11 +32,6 @@ Here are a few things I've built:
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anishya-anilkumar\&show_icons=true)
-
----
 
 ## 🌐 Connect With Me
 
