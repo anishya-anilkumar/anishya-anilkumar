@@ -22,7 +22,7 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
 Here are a few things I've built:
 
