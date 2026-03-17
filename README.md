@@ -35,8 +35,8 @@ Here are a few things I've built:
 
 ## 🌐 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/anishya-s-anilkumar-1916253b7]
-* Email: [anishyaanilkumar@gmail.com]
+* LinkedIn: www.linkedin.com/in/anishya-s-anilkumar-1916253b7
+* Email: anishyaanilkumar@gmail.com
 
 ---
 
